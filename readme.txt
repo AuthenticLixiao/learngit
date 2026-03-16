@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 
 commit1: Git takes snapshots of your entire project at each commit.
 commit2: Git repositories can be hosted on services like GitHub.
+commit4: Git encourages experimentation with cheap local branches and stashing.
